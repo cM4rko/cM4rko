@@ -2,24 +2,23 @@
 
 <img align="right" width=300px alt="hacker" src="./assets/gifs/legoRiddler.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me :***
 
--  I love break & secure digital things
+- 🤓 I break and secure digital systems
 - 🕵🏻‍♂️ Smart Contract Security Researcher
-- 🌐 Pentesting Web
-- 🏰 Pentesting Active Directory
+- 🌐 Web & AD Pentester
 - 🧠 Focused on cybersecurity & blockchain security
-- ⚔️ Always learning, always improving
+- ⚔️ Continuous learning mindset
 
 - 🧩 Currently deep diving into:
-  - Smart Contract Auditing and Development
+  - Smart Contract Auditing & Development
   - Web exploitation
 
 - 🤝 Open to collaborate on security research & audits
 
 ---
 
-##  My Skills
+##  Skills
 
 <h4>Languages & Low-Level</h4>
 <span> 
