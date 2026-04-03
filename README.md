@@ -4,13 +4,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me :***
 
-- 🤓 I break and secure digital systems
+- ⚡ I break and secure digital systems
 - 🕵🏻‍♂️ Smart Contract Security Researcher
 - 🌐 Web & AD Pentester
 - 🧠 Focused on cybersecurity & blockchain security
 - ⚔️ Continuous learning mindset
 
-- 🧩 Currently deep diving into:
+- 🔱 Currently deep diving into:
   - Smart Contract Auditing & Development
   - Web exploitation
 
