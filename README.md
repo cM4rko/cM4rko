@@ -1,4 +1,4 @@
-<img align="right" width=300px alt="hacker" src="./assets/gifs/legoRiddler.gif" />
+<img align="right" width=300px alt="hacker" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" />
 
 <img src="https://media.tenor.com/jML-RrnpKtwAAAAi/minikit-lego.gif" width="30px">&nbsp;***About me :***
 
