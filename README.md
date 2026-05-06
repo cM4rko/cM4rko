@@ -14,7 +14,10 @@
 
 ---
 
-<h2> 🛠️ Skills </h2>
+<h2>
+  <img width=50px src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif" alt="status"> 
+  Skills 
+</h2>
 
 <h4>Languages & Low-Level</h4>
 <span> 
@@ -63,7 +66,10 @@
 
 <hr>
 
-<h2> 📜 Certifications </h2>
+<h2>
+  <img width=40px src="https://media.tenor.com/EM8nFD0MmrgAAAAj/power-brick-lego-brick.gif" alt="status"> 
+  Certifications 
+</h2>
   <a href="https://www.credly.com/users/cm4rko/badges">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
   </a>
