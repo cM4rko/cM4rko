@@ -1,17 +1,16 @@
 <img align="right" width=300px alt="hacker" src="./assets/gifs/legoRiddler.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me :***
+<img src="https://media.tenor.com/jML-RrnpKtwAAAAi/minikit-lego.gif" width="30px">&nbsp;***About me :***
 
-- 👾 I break and secure digital systems
 - 🕵🏻‍♂️ Smart Contract Security Researcher & Developer
 - 🌐 Web Application Pentester
 - 🏰 Active Directory Pentester
-- 🧠 Focused on cybersecurity & blockchain security
-- 🤿 Currently deep diving into:
-  - Smart Contract Auditing & Development
-  - Web exploitation
-
-- 🤝 Open to collaborate on security research & audits
+- 🔴 Red Teamer
+- 👺 Malware Developer
+- 🔎 Currently deep diving into:
+  - Ethereum Smart Contract Auditing & Development .sol and .vy
+  - Solana Smart Contract Auditing & Development .rs
+  - Pentesting Web
 
 ---
 
