@@ -1,16 +1,12 @@
 <img align="right" width=300px alt="hacker" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" />
 
-<img src="https://media.tenor.com/jML-RrnpKtwAAAAi/minikit-lego.gif" width="30px">&nbsp;***About me :***
+<img src="https://media.tenor.com/jML-RrnpKtwAAAAi/minikit-lego.gif" width="30px">&nbsp;**About me :**
 
-- 🕵🏻‍♂️ Smart Contract Security Researcher & Developer
-- 🌐 Web Application Pentester
-- 🏰 Active Directory Pentester
-- 🔴 Red Teamer
-- 👺 Malware Developer
-- 🔎 Currently deep diving into:
-  - Ethereum Smart Contract Auditing & Development .sol and .vy
-  - Solana Smart Contract Auditing & Development .rs
-  - Pentesting Web
+<p> [+] Smart Contract Auditor </p>
+<p> [+] Smart Contract Developer </p>
+<p> [+] Pentester </p>
+<p> [+] Red Teamer </p>
+<p> [+] Malware Developer </p>
 
 ---
 
