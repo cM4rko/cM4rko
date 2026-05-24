@@ -1,6 +1,6 @@
 <img align="right" width=300px alt="hacker" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" />
 
-<img src="https://media.tenor.com/jML-RrnpKtwAAAAi/minikit-lego.gif" width="30px">&nbsp;**About me :**
+**About me :**
 
 <p> [+] Pentester </p>
 <p> [+] Red Teamer </p>
@@ -67,19 +67,11 @@
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </span>
 
-<h4>Databases</h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
-</span>
-
 <hr>
 
 <h2>
   <img width=40px src="https://media.tenor.com/EM8nFD0MmrgAAAAj/power-brick-lego-brick.gif" alt="status"> 
-  Certifications 
+  Certs
 </h2>
   <a href="https://www.credly.com/users/cm4rko/badges">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
