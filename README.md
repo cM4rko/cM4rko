@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Parrot_Security-000000?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED">
+  <img src="https://img.shields.io/badge/Parrot OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED">
 </span>
 
 <h4>Blockchains</h4>
