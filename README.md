@@ -11,7 +11,6 @@
 ---
 
 <h2>
-  <img width=50px src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif" alt="status"> 
   Skills 
 </h2>
 
@@ -70,7 +69,6 @@
 <hr>
 
 <h2>
-  <img width=40px src="https://media.tenor.com/EM8nFD0MmrgAAAAj/power-brick-lego-brick.gif" alt="status"> 
   Certs
 </h2>
   <a href="https://www.credly.com/users/cm4rko/badges">
