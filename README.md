@@ -1,4 +1,4 @@
-<img align="right" width=400px alt="hacker" src="https://github.com/user-attachments/assets/c41c57a6-b214-4d70-812b-81816fb77e59" />
+<img align="right" width=390px alt="hacker" src="https://github.com/user-attachments/assets/c41c57a6-b214-4d70-812b-81816fb77e59" />
 
 **About me :**
 
