@@ -1,9 +1,8 @@
-<img align="right" width=310px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
+<img align="right" width=280px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
 
 **About me :**
 
 <p> [+] Pentester </p>
-<p> [+] Red Teamer </p>
 <p> [+] Smart Contract Auditor & Developer </p>
 <p> [+] Sysadmin </p>
 <p> [+] Cloud Security Engineer </p>
@@ -44,7 +43,6 @@
 <h4> Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-7f00b2?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/IPFS-2ef8a0?style=for-the-badge&logo=ipfs&logoColor=000000">
   <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white">
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white">
