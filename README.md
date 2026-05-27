@@ -1,11 +1,9 @@
-<img align="right" width=280px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
+<img align="right" width=120px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
 
 **About me :**
 
 <p> [+] Pentester </p>
 <p> [+] Smart Contract Auditor & Developer </p>
-<p> [+] Sysadmin </p>
-<p> [+] Cloud Security Engineer </p>
 
 ---
 
