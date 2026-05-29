@@ -1,9 +1,11 @@
-<img align="right" width=120px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
+<img align="right" width=200px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
 
 **About me :**
 
 <p> [+] Pentester </p>
 <p> [+] Smart Contract Auditor & Developer </p>
+<p> [+] Sysadmin </p>
+<p> [+] Cloud Security Engineer </p>
 
 ---
 
@@ -36,6 +38,7 @@
   <img src="https://img.shields.io/badge/Splunk-FFA500?style=for-the-badge&logo=Splunk&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff">
 </span>
 
 <h4> Technologies </h4>
@@ -52,15 +55,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Parrot OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED">
 </span>
 
 <h4>Blockchains</h4>
 <span>
   <img src="https://img.shields.io/badge/Ethereum-162B4E?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white">
+  <img src="https://img.shields.io/badge/Monero-F60?style=for-the-badge&logo=monero&logoColor=fff">
 </span>
 
 <h4>Couds</h4>
