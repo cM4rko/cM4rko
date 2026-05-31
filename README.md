@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=fff">
+  <img src="https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault">
 </span>
 
 <h4> Technologies </h4>
