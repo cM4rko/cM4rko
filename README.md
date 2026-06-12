@@ -4,8 +4,8 @@
 
 <p> [+] Pentester </p>
 <p> [+] Smart Contract Auditor & Developer </p>
+<p> [+] SOC Analyst </p>
 <p> [+] Sysadmin </p>
-<p> [+] Cloud Security Engineer </p>
 
 ---
 
