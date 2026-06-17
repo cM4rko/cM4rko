@@ -76,12 +76,3 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=icloud&logoColor=white">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=icloud&logoColor=white">
 </span>
-
-<hr>
-
-<h2>
-  Certs
-</h2>
-  <a href="https://www.credly.com/users/cm4rko/badges">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
-  </a>
