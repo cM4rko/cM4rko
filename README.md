@@ -1,11 +1,7 @@
-<!-- <img align="right" width=200px alt="hacker" src="https://github.com/user-attachments/assets/bcb78981-34ae-433f-bb6d-4fb3094956db" />
-
-**About me :** -->
-
 <p> [+] Pentester </p>
 <p> [+] Smart Contract Auditor & Developer </p>
-<p> [+] SOC Analyst </p>
 <p> [+] Sysadmin </p>
+<p> [+] SOC Analyst </p>
 
 ---
 
@@ -13,19 +9,21 @@
   Skills 
 </h2>
 
-<h4>Languages & Low-Level</h4>
+<h4> Languages </h4>
 <span>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-780401?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-a1d9d9?style=for-the-badge&logo=gnu-bash&logoColor=000000">
   <img src="https://img.shields.io/badge/Solidity-7f00b2?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/Yul-000000?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/Huff-000000?style=for-the-badge&logo=ethereum&logoColor=white">
   <img src="https://img.shields.io/badge/Vyper-7F00FF?style=for-the-badge&logo=python&logoColor=ffdd54"">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-780401?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white">
+</span>
+
+<h4> Assembly </h4>
+<span>
+  <img src="https://img.shields.io/badge/Yul-7f00b2?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Huff-7f00b2?style=for-the-badge&logo=ethereum&logoColor=white">
 </span>
 
 <h4> Tools </h4>
@@ -61,7 +59,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
 
 <h4>Blockchains</h4>
